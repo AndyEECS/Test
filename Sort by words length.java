@@ -19,7 +19,7 @@ public class M4
     then the return would be: {4=2, 5=3, 6=1, 9=1}
 
     */
-    public static Map<Integer,Integer> nameChart(List<String> words) //!!!notice: change the name of variables to original
+    public static Map<Integer,Integer> nameChart(List<String> words) 
     {
         Map<Integer, Integer> newMap = new TreeMap<>();
         for (String s : words)
