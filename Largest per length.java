@@ -10,9 +10,6 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-/**
- * Created by qiangxinglin on 2017/3/29.
- */
 
 public class M3 {
     /* Given a non-empty list of strings, this method groups these strings
